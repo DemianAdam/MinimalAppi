@@ -1,5 +1,4 @@
 # MinimalAppi
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/DemianAdam/MinimalAppi)
 
 A minimalist, zero-dependency library for building robust APIs with Google Apps Script. It provides a simple yet powerful structure for handling routing, authentication, HTTP methods, and standardized JSON responses.
 
